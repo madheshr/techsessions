@@ -1,4 +1,4 @@
-package lamba;
+package lambda;
 
 interface AuthServiceInterface
 {
